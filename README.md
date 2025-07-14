@@ -50,6 +50,8 @@ Microsoft Excel (Power Query, Pivot Table)
 **✅ Result:**  
 The analysis showed which customers are high, medium, or low risk based on how much credit they have left. This helps the business make better decisions and focus on the right customers.
 
+<img src="https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Project%20Visuals/Credit_Card_Visual.png" />
+
 ---
 ### Superstore Sales Performance Analysis
 
@@ -73,6 +75,8 @@ Microsoft Excel (Power Query, Pivot Table, Slicers)
 
 **✅ Result:**  
 The dashboard showed total sales by state, shipping times, and trends by year and month. This helped give a clear view of where sales are strong and where improvements can be made.
+
+<img src="https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Project%20Visuals/Superstore_Visual.png" />
 
 ---
 
