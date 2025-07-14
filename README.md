@@ -38,8 +38,8 @@ To group customers based on how they use their credit and help the business unde
 - Created additional columns to categorize and sort data: `Age Group` for age ranges; `Income Sort Key` and `Age Sort Key` to enable accurate sorting in visualizations; `Credit Risk Level` based on the percentage of remaining credit, used to classify customers as Low, Medium, or High risk.
 - Used the formula `(Avg_Open_To_Buy / Credit_Limit) * 100` to calculate the percentage of remaining credit—this helps classify customers into risk levels based on how much credit they have left:
   - Low Risk = ≥ 75% 
-  - Medium Risk = 25% to 74%  
-  - High Risk = < 25%
+  - Medium Risk = 26% to 74%  
+  - High Risk = ≤ 25%
 
 **🧠 Skills:**  
 Data transformation and Data categorization
