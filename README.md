@@ -56,6 +56,7 @@ The analysis showed which customers are high, medium, or low risk based on how m
 ### Superstore Sales Performance Analysis
 
 **File:** [Superstore_Analysis.xlsx]( https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Superstore_Analysis.xlsx)
+
 **Dataset:** [Sales Forecasting Dataset (Kaggle)](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 **🎯 Goal:**  
