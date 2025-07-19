@@ -11,8 +11,9 @@
 #### 📊 Structured Data Analysis
 
 - **Excel**
-  - [Credit Card Risk Analysis]( https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Credit_Card_Analysis.xlsx)
-  - [Superstore Sales Performance Analysis]( https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Superstore_Analysis.xlsx)
+  - [Credit Card Risk Analysis](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Credit_Card_Analysis.xlsx)
+  - [Superstore Sales Performance Analysis](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Superstore_Analysis.xlsx)
+  - [Customer Satisfaction Analysis](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Customer_Analysis.xlsx)
 
 - **Power BI**
   
@@ -78,6 +79,34 @@ Microsoft Excel (Power Query, Pivot Table, Slicers)
 The dashboard showed total sales by state, shipping times, and trends by year and month. This helped give a clear view of where sales are strong and where improvements can be made.
 
 <img src="https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Project%20Visuals/Superstore_Visual.png" />
+
+---
+### Customer Satisfaction Analysis
+
+**File:** [Customer_Analysis.xlsx](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Customer_Analysis.xlsx)
+
+**Dataset:** [Airline Passenger Satisfaction Dataset (Kaggle)](https://www.kaggle.com/datasets/raminhuseyn/airline-customer-satisfaction)
+
+**🎯 Goal:**  
+To analyze passenger satisfaction in the airline industry and provide clear, interactive insights based on customer types, travel class, age group, and service quality.
+
+**📝 Description:**  
+- Cleaned the dataset using Power Query, removing duplicates and validating data integrity.
+- Added a new column to categorize passengers into `Age Group` (Children, Adult, Elderly).
+- Created a dynamic heatmap using conditional formatting to highlight rating frequencies per service type (red = lowest, green = highest).
+- Integrated slicers (Customer Type, Travel Type, Class) for interactive filtering and exploration.
+- Uses cards to display key metrics such as Average Flight Distance, Departure Delay, and Arrival Delay.
+
+**🧠 Skills:**  
+Data cleaning and data visualization
+
+**🛠️ Technology:**  
+Microsoft Excel (Power Query, Pivot Table, Slicers, Conditional Formatting)
+
+**✅ Result:**  
+The dashboard offers a user-friendly overview of passenger satisfaction across multiple variables. Key metrics and visuals make it easy to identify areas needing service improvement (e.g., food and drink, legroom service) and understand which factors contribute to high satisfaction among loyal customers and business travelers.
+
+<img src="https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Project%20Visuals/Customer_Visual.png" />
 
 ---
 
