@@ -53,7 +53,6 @@ The analysis showed which customers are high, medium, or low risk based on how m
 
 <img src="https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Project%20Visuals/Credit_Card_Visual.png" />
 
----
 ### Superstore Sales Performance Analysis
 
 **File:** [Superstore_Analysis.xlsx]( https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Superstore_Analysis.xlsx)
@@ -80,7 +79,6 @@ The dashboard showed total sales by state, shipping times, and trends by year an
 
 <img src="https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Project%20Visuals/Superstore_Visual.png" />
 
----
 ### Customer Satisfaction Analysis
 
 **File:** [Customer_Analysis.xlsx](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Customer_Analysis.xlsx)
@@ -107,6 +105,11 @@ Microsoft Excel (Power Query, Pivot Table, Slicers, Conditional Formatting)
 The dashboard offers a user-friendly overview of passenger satisfaction across multiple variables. Key metrics and visuals make it easy to identify areas needing service improvement (e.g., food and drink, legroom service) and understand which factors contribute to high satisfaction among loyal customers and business travelers.
 
 <img src="https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Project%20Visuals/Customer_Visual.png" />
+
+---
+
+## 📌 Disclaimer
+The datasets used in this project are for educational and portfolio purposes only. All insights and visuals are created for learning and demonstration.
 
 ---
 
