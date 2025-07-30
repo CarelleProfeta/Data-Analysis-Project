@@ -109,7 +109,7 @@ The dashboard offers a user-friendly overview of passenger satisfaction across m
 ---
 
 ## 📌 Disclaimer
-The datasets used in this project are for educational and portfolio purposes only. All insights and visuals are created for learning and demonstration.
+The datasets used in this project are for **educational and portfolio purposes only.** All insights and visuals are created for learning and demonstration.
 
 ---
 
