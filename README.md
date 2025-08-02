@@ -11,6 +11,7 @@
 #### 📊 Structured Data Analysis
 
 - **Excel**
+  - [Movie Trend Analysis](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Movie_Analysis.xlsx)
   - [Credit Card Risk Analysis](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Credit_Card_Analysis.xlsx)
   - [Superstore Sales Performance Analysis](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Superstore_Analysis.xlsx)
   - [Customer Satisfaction Analysis](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Customer_Analysis.xlsx)
@@ -24,6 +25,29 @@
 ---
 
 ## 📁 Project Details
+
+### Movie Trend Analysis
+
+**File:** [Movie_Analysis.xlsx](https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Movie_Analysis.xlsx)
+
+**Dataset:** [Full TMDB Movies Dataset 2024 (Kaggle)](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
+
+**🎯 Goal:**  
+To explore movie trends from 2015 to 2025 by analyzing production patterns, genres, languages, profitability, and country-wise performance.
+
+**📝 Description:**  
+  - Performed data cleaning in Power Query by eliminating duplicate entries handling missing values, and fixing data inconsistencies.
+
+**🧠 Skills:**  
+Data transformation and Data visualization
+
+**🛠️ Technology:**  
+Microsoft Excel (Power Query, Pivot Table)
+
+**✅ Result:**  
+The dashboard presents a clear and interactive summary of a decade of movie industry data, helping identify top-performing years, popular genres, and country-specific contributions.
+
+<img src="https://github.com/CarelleProfeta/Data-Analysis-Project/blob/master/Structured%20Data/Excel/Project%20Visuals/Movie_Visual.png" />
 
 ### Credit Card Risk Analysis
 
